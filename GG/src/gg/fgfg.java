@@ -5,6 +5,7 @@ public class fgfg {
 		System.out.println("sos una mierda");
 		System.out.println("tu tambien");
 		System.out.println("tu tambien");
+		System.out.println("tu tambien");System.out.println("tu tambien");
 		
 	}
 
